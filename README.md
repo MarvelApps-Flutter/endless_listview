@@ -6,7 +6,7 @@ A flutter app demonstrating the use of Endless ListView implementation.
  # Demo
   <table>
   <tr>
-  <td><img src="https://github.com/MarvelApps-Flutter/endless_listview/blob/dev/working_demo/endless_listview.gif" height="480px"></td>
+  <td><img src="https://github.com/MarvelApps-Flutter/endless_listview/blob/dev/working_demo/endless_listview_module.gif" height="480px"></td>
     </tr>
   </table>
 
